@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mikeysrecipes-chaingpt-mcp-badge.png)](https://mseep.ai/app/mikeysrecipes-chaingpt-mcp)
+
 ![chaingpt-mcp-main](./public/2.png)
 <p align="center"><em>Hosted by Modl, any commits or changes made by the Modl team is to ensure compatibility</em></p>
 
